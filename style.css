@@ -1,0 +1,84 @@
+
+header{    
+    background-position: center center;
+    height: 350px;
+    background-image: url(../img/bg2.jpg);;
+}
+
+h1{
+    background-color: rgba(248, 248, 248, 0.50);
+    margin-top: 80px;
+    padding-left: 11rem;   
+    font-family: Open Sans;
+    color: rgb(240, 12, 12);
+    font-weight: bold; 
+}
+
+h2{    
+    margin-top: 10px;   
+    color: #416618; 
+    border-left: 3px dotted #416618;
+    font-variant: small-caps;
+    padding: 5px 15px;
+}
+
+h3{    
+    font-weight: bold;
+    color: #894f3b; 
+    text-align: center;
+    font-size: 1.3rem;
+    letter-spacing: 1px;   
+}
+
+
+
+td,th{
+    text-align: center;
+    border: 1px solid red;
+    width: 200px;
+}
+
+thead>tr:first-child{    
+    letter-spacing: 2px;
+    text-transform: uppercase;    
+}
+
+.navbar {
+    background-color: #fd8800;
+}
+
+p{
+    text-align: justify;
+    text-indent: 15px;
+}
+
+.also {
+    font-family: monospace;
+    text-align: center;
+}
+
+hr{
+    background-color: red;
+}
+
+.js{
+    width: 100%;
+    text-align: center;
+    font-family: Open Sans;
+    background-color: tan;
+}
+
+table{
+    width: 50%;
+    border: saddlebrown;
+    padding: 10px;
+    margin-left: 25%;
+    background-color: yellow;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-weight: bold;
+}
+
+.covidpic{
+    float: left;
+}
